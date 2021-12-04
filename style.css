@@ -1,0 +1,32 @@
+* {
+  transition: 500ms ease 0s;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#About {
+  background-color: #0d6efd;
+}
+
+#services {
+  background-color: #e2edff;
+}
+
+#galeri {
+  background-color: #0d6efd;
+}
+
+#contact {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
